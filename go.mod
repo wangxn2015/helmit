@@ -1,4 +1,4 @@
-module github.com/wanxn2015/helmit
+module github.com/wangxn2015/helmit
 
 go 1.16
 
@@ -11,8 +11,7 @@ require (
 	github.com/joncalhoun/pipe v0.0.0-20170510025636-72505674a733
 	github.com/spf13/cobra v1.2.1
 	github.com/stretchr/testify v1.7.0
-	github.com/wangxn2015/helmit v0.0.0-00010101000000-000000000000
-	github.com/wangxn2015/onos-lib-go v1.8.15
+	github.com/wangxn2015/onos-lib-go v0.0.0-00010101000000-000000000000
 	google.golang.org/grpc v1.41.0
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.7.2
