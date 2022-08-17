@@ -19,7 +19,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/onosproject/helmit/pkg/kubernetes"
+	"github.com/wangxn2015/helmit/pkg/kubernetes"
 	"io"
 	"io/ioutil"
 	corev1 "k8s.io/api/core/v1"

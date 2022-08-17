@@ -17,8 +17,8 @@ package test
 import (
 	"time"
 
-	"github.com/onosproject/helmit/pkg/helm"
-	"github.com/onosproject/helmit/pkg/simulation"
+	"github.com/wangxn2015/helmit/pkg/helm"
+	"github.com/wangxn2015/helmit/pkg/simulation"
 )
 
 // ChartSimulationSuite :: simulation

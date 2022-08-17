@@ -24,13 +24,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/onosproject/helmit/pkg/job"
+	"github.com/wangxn2015/helmit/pkg/job"
 
-	"github.com/onosproject/helmit/pkg/util/logging"
+	"github.com/wangxn2015/helmit/pkg/util/logging"
 
-	"github.com/onosproject/helmit/pkg/test"
-	"github.com/onosproject/helmit/pkg/util/random"
 	"github.com/spf13/cobra"
+	"github.com/wangxn2015/helmit/pkg/test"
+	"github.com/wangxn2015/helmit/pkg/util/random"
 	corev1 "k8s.io/api/core/v1"
 )
 

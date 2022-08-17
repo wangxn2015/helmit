@@ -19,10 +19,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/onosproject/onos-lib-go/pkg/grpc/retry"
+	"github.com/wangxn2015/onos-lib-go/pkg/grpc/retry"
 
-	"github.com/onosproject/helmit/pkg/job"
-	"github.com/onosproject/helmit/pkg/registry"
+	"github.com/wangxn2015/helmit/pkg/job"
+	"github.com/wangxn2015/helmit/pkg/registry"
 	"google.golang.org/grpc"
 )
 

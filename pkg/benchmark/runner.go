@@ -19,7 +19,7 @@ import (
 	"os"
 	"path"
 
-	jobs "github.com/onosproject/helmit/pkg/job"
+	jobs "github.com/wangxn2015/helmit/pkg/job"
 )
 
 // The executor is the entrypoint for benchmark images. It takes the input and environment and runs

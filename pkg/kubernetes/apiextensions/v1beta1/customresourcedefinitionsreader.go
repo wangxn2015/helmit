@@ -4,7 +4,7 @@ package v1beta1
 
 import (
 	"context"
-	"github.com/onosproject/helmit/pkg/kubernetes/resource"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/resource"
 	apiextensionsv1beta1 "k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1"
 	clientset "k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset"
 	"k8s.io/apimachinery/pkg/api/errors"

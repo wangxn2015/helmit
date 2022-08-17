@@ -16,7 +16,7 @@ package test
 
 import (
 	"fmt"
-	jobs "github.com/onosproject/helmit/pkg/job"
+	jobs "github.com/wangxn2015/helmit/pkg/job"
 	"os"
 	"path"
 )

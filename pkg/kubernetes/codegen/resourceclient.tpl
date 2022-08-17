@@ -3,7 +3,7 @@
 package {{ .Client.Package.Name }}
 
 import (
-    "github.com/onosproject/helmit/pkg/kubernetes/resource"
+    "github.com/wangxn2015/helmit/pkg/kubernetes/resource"
 )
 
 type {{ .Client.Types.Interface }} interface {

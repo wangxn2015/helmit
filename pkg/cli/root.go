@@ -20,9 +20,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/onosproject/helmit/pkg/util/logging"
 	"github.com/spf13/cobra"
 	"github.com/spf13/cobra/doc"
+	"github.com/wangxn2015/helmit/pkg/util/logging"
 )
 
 func init() {

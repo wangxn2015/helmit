@@ -4,7 +4,7 @@ package v1
 
 import (
 	"context"
-	"github.com/onosproject/helmit/pkg/kubernetes/resource"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/resource"
 	admissionregistrationv1 "k8s.io/api/admissionregistration/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	kubernetes "k8s.io/client-go/kubernetes"

@@ -26,9 +26,9 @@ import (
 
 	"google.golang.org/grpc/status"
 
-	"github.com/onosproject/helmit/pkg/kubernetes"
-	"github.com/onosproject/helmit/pkg/util/files"
-	"github.com/onosproject/helmit/pkg/util/logging"
+	"github.com/wangxn2015/helmit/pkg/kubernetes"
+	"github.com/wangxn2015/helmit/pkg/util/files"
+	"github.com/wangxn2015/helmit/pkg/util/logging"
 	batchv1 "k8s.io/api/batch/v1"
 	corev1 "k8s.io/api/core/v1"
 	rbacv1 "k8s.io/api/rbac/v1"

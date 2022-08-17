@@ -3,7 +3,7 @@
 package v1beta1
 
 import (
-	"github.com/onosproject/helmit/pkg/kubernetes/resource"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/resource"
 )
 
 type CustomResourceDefinitionsClient interface {

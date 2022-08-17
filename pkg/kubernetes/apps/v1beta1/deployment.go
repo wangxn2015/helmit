@@ -4,9 +4,9 @@ package v1beta1
 
 import (
 	"context"
-	appsv1 "github.com/onosproject/helmit/pkg/kubernetes/apps/v1"
-	corev1 "github.com/onosproject/helmit/pkg/kubernetes/core/v1"
-	"github.com/onosproject/helmit/pkg/kubernetes/resource"
+	appsv1 "github.com/wangxn2015/helmit/pkg/kubernetes/apps/v1"
+	corev1 "github.com/wangxn2015/helmit/pkg/kubernetes/core/v1"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/resource"
 	appsv1beta1 "k8s.io/api/apps/v1beta1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	kubernetes "k8s.io/client-go/kubernetes"

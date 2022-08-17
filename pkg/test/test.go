@@ -16,7 +16,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/onosproject/helmit/pkg/input"
+	"github.com/wangxn2015/helmit/pkg/input"
 	"os"
 	"reflect"
 	"regexp"

@@ -19,11 +19,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/onosproject/helmit/pkg/kubernetes"
+	"github.com/wangxn2015/helmit/pkg/kubernetes"
 
-	"github.com/onosproject/helmit/pkg/helm"
-	"github.com/onosproject/helmit/pkg/test"
 	"github.com/stretchr/testify/assert"
+	"github.com/wangxn2015/helmit/pkg/helm"
+	"github.com/wangxn2015/helmit/pkg/test"
 )
 
 // ChartTestSuite is a test for chart deployment

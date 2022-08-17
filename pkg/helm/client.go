@@ -18,7 +18,7 @@ package helm
 import (
 	"log"
 
-	"github.com/onosproject/helmit/pkg/kubernetes/config"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/config"
 	"helm.sh/helm/v3/pkg/action"
 	"k8s.io/client-go/kubernetes"
 )

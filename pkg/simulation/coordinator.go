@@ -20,13 +20,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/onosproject/onos-lib-go/pkg/grpc/retry"
+	"github.com/wangxn2015/onos-lib-go/pkg/grpc/retry"
 
-	"github.com/onosproject/helmit/pkg/job"
-	"github.com/onosproject/helmit/pkg/kubernetes/config"
-	"github.com/onosproject/helmit/pkg/registry"
-	"github.com/onosproject/helmit/pkg/util/async"
-	"github.com/onosproject/helmit/pkg/util/logging"
+	"github.com/wangxn2015/helmit/pkg/job"
+	"github.com/wangxn2015/helmit/pkg/kubernetes/config"
+	"github.com/wangxn2015/helmit/pkg/registry"
+	"github.com/wangxn2015/helmit/pkg/util/async"
+	"github.com/wangxn2015/helmit/pkg/util/logging"
 	"google.golang.org/grpc"
 )
 

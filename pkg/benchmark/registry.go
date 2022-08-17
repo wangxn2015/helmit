@@ -14,7 +14,7 @@
 
 package benchmark
 
-import "github.com/onosproject/helmit/pkg/registry"
+import "github.com/wangxn2015/helmit/pkg/registry"
 
 // Register registers a benchmark suite
 // Deprecated: Use registry.RegisterBenchmarkSuite instead
